@@ -1,0 +1,5 @@
+1. if not already installed use the included installer for python3
+2. run the setup.bat
+3. run the run.bat
+
+ps. press q to exit the program
